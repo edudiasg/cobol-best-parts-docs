@@ -1,9 +1,0 @@
-baseURL = "https://edudiasg.github.io/cobol-best-parts-docs/"
-languageCode = "en-us"
-title = "COBOL Best Parts Docs"
-relativeURLs = true
-canonifyURLs = true
-
-
-[params]
-  # Parâmetros adicionais que o tema pode usar
